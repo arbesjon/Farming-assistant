@@ -1,0 +1,36 @@
+img {
+    width: 30px;
+}
+
+#title {
+    color: #6ab25f;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#table {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tabler {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#addPlant {
+    float: right;
+    right: 0px;
+    margin-bottom: 5px;
+}
+
+#formtext {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6ab25f; 
+}
+
+#mm {
+    visibility: hidden;
+    display: none;
+}

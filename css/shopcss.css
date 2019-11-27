@@ -1,0 +1,21 @@
+#card {
+    width: 14rem;
+    height: 16rem;
+    margin: 2px;
+}
+
+#cardimg {
+    width: 40px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 5px;
+}
+
+#btnshop {
+    margin-left: 5px;
+}
+
+#pdate {
+    font-size: 12px;
+}
